@@ -154,6 +154,42 @@ All pilot work lives on branches named `radar-<technology>`.
 - Do not merge to `main` without stakeholder approval
 - Each branch contains one complete pilot (plan → demo → eval → decision)
 
+## 🤖 Usage with AI Coding Agents
+
+**KE Radar is designed for AI-assisted pilot execution.** The structured templates, runbooks, and specifications enable coding agents (GitHub Copilot, Claude Code, Codex) to autonomously create and run technology evaluations.
+
+### Agent-Driven Workflow
+
+Instead of manually creating pilots, use natural language prompts:
+
+```
+"Test the next technology from the radar roadmap"
+"Prepare the next pilot according to ROADMAP.md"
+"Run the pilot for <technology-name>"
+"Create evaluation report for the current pilot"
+"Generate decision memo based on pilot results"
+```
+
+### How Agents Work with KE Radar
+
+1. **Agent reads context**: Consults `RUNBOOK.md`, `AGENT_SPEC.md`, `ROADMAP.md`, and templates
+2. **Agent creates structure**: Creates `radar-<technology>` branch with complete pilot scaffolding
+3. **Agent executes pilot**: Follows five-phase workflow (Discovery → Planning → Experimentation → Evaluation → Decision)
+4. **Agent generates artifacts**: Produces pilot plans, experiment logs, ADRs, evaluation reports using standard templates
+5. **Human reviews and approves**: You validate results before merging to `main`
+
+### Prerequisites for Agent Use
+
+Agents rely on these framework components:
+
+- **`RUNBOOK.md`**: Step-by-step pilot execution procedures
+- **`AGENT_SPEC.md`**: Agent persona, capabilities, constraints
+- **`templates/`**: Standardized formats for all artifacts
+- **`ROADMAP.md`**: Prioritized technology backlog
+- **`metrics/`**: Quantified success criteria and scoring rubrics
+
+**Benefits**: Rapid experimentation velocity while maintaining governance through templates, review gates, and documented decision criteria.
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
