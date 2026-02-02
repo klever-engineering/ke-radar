@@ -168,7 +168,32 @@ Instead of manually creating pilots, use natural language prompts:
 "Run the pilot for <technology-name>"
 "Create evaluation report for the current pilot"
 "Generate decision memo based on pilot results"
+"Scan the codebase and propose relevant technologies to evaluate"
 ```
+
+### Codebase-Driven Technology Discovery
+
+**Agents can analyze your project to suggest relevant pilots:**
+
+Ask the agent to scan your codebase and propose technologies based on actual needs:
+
+```
+"Analyze the codebase and suggest technologies from the radar that would address current pain points"
+"Review our architecture and propose relevant pilots from ROADMAP.md"
+"Identify technical debt areas and recommend technologies to evaluate"
+```
+
+**How it works:**
+
+1. Agent scans project structure, dependencies, patterns, and pain points
+2. Agent correlates findings with technologies in `ROADMAP.md` and radar sources
+3. Agent prioritizes suggestions based on:
+   - **Relevance**: Technologies that address discovered issues
+   - **Impact**: Potential improvements to quality, velocity, or maintainability
+   - **Feasibility**: Compatibility with existing stack and team skills
+4. Agent generates prioritized queue with rationale linking each technology to specific codebase findings
+
+**Result**: Pilots become context-aware and directly relevant to your project's actual needs, not generic recommendations.
 
 ### How Agents Work with KE Radar
 
