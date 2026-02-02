@@ -1,0 +1,2270 @@
+[
+  {
+    "volume": 31,
+    "number": 1,
+    "name": "1% canary",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 2,
+    "name": "Component testing",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 3,
+    "name": "Continuous deployment",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 4,
+    "name": "Retrieval-augmented generation (RAG)",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 5,
+    "name": "Domain storytelling",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 6,
+    "name": "Fine-tuning embedding models",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 7,
+    "name": "Function calling with LLMs",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 8,
+    "name": "LLM as a judge",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 9,
+    "name": "Passkeys",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 10,
+    "name": "Small language models",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 11,
+    "name": "Synthetic data for testing and training models",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 12,
+    "name": "Using GenAI to understand legacy codebases",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 13,
+    "name": "AI team assistants",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 14,
+    "name": "Dynamic few-shot prompting",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 15,
+    "name": "GraphQL for data products",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 16,
+    "name": "LLM-powered autonomous agents",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 17,
+    "name": "Observability 2.0",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 18,
+    "name": "On-device LLM inference",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 19,
+    "name": "Structured output from LLMs",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 20,
+    "name": "Complacency with AI-generated code",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 21,
+    "name": "Enterprise-wide integration test environments",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 22,
+    "name": "LLM bans",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 23,
+    "name": "Replacing pair programming with AI",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 31,
+    "number": 24,
+    "name": "Databricks Unity Catalog",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 25,
+    "name": "FastChat",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 26,
+    "name": "GCP Vertex AI Agent Builder",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 27,
+    "name": "Langfuse",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 28,
+    "name": "Qdrant",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 29,
+    "name": "Vespa",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 30,
+    "name": "Azure AI Search",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 31,
+    "name": "Databricks Delta Live Tables",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 32,
+    "name": "Elastisys Compliant Kubernetes",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 33,
+    "name": "FoundationDB",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 34,
+    "name": "Golem",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 35,
+    "name": "Iggy",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 36,
+    "name": "Iroh",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 37,
+    "name": "Large vision model (LVM) platforms",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 38,
+    "name": "OpenBCI Galea",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 39,
+    "name": "PGLite",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 40,
+    "name": "SpinKube",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 41,
+    "name": "Unblocked",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 31,
+    "number": 42,
+    "name": "Bruno",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 43,
+    "name": "K9s",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 44,
+    "name": "SOPS",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 45,
+    "name": "Visual regression testing tools",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 46,
+    "name": "Wiz",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 47,
+    "name": "AWS Control Tower",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 48,
+    "name": "CCMenu",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 49,
+    "name": "ClickHouse",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 50,
+    "name": "Devbox",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 51,
+    "name": "Difftastic",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 52,
+    "name": "LinearB",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 53,
+    "name": "pgvector",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 54,
+    "name": "Snapcraft build tool",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 55,
+    "name": "Spinnaker",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 56,
+    "name": "TypeScript OpenAPI",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 57,
+    "name": "Unleash",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 58,
+    "name": "Astronomer Cosmos",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 59,
+    "name": "ColPali",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 60,
+    "name": "Cursor",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 61,
+    "name": "Data Mesh Manager",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 62,
+    "name": "GitButler",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 63,
+    "name": "JetBrains AI Assistant",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 64,
+    "name": "Mise",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 65,
+    "name": "Mockoon",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 66,
+    "name": "Raycast",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 67,
+    "name": "ReadySet",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 68,
+    "name": "Rspack",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 69,
+    "name": "Semantic Router",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 70,
+    "name": "Software engineering agents",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 71,
+    "name": "uv",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 72,
+    "name": "Warp",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 73,
+    "name": "Zed",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 74,
+    "name": "CocoaPods",
+    "ring": "Hold",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 31,
+    "number": 75,
+    "name": "dbt",
+    "ring": "Adopt",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 76,
+    "name": "Testcontainers",
+    "ring": "Adopt",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 77,
+    "name": "CAP",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 78,
+    "name": "CARLA",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 79,
+    "name": "Databricks Asset Bundles",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 80,
+    "name": "Instructor",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 81,
+    "name": "Kedro",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 82,
+    "name": "LiteLLM",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 83,
+    "name": "LlamaIndex",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 84,
+    "name": "LLM Guardrails",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 85,
+    "name": "Medusa",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 86,
+    "name": "Pkl",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 87,
+    "name": "ROS 2",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 88,
+    "name": "seL4",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 89,
+    "name": "SetFit",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 90,
+    "name": "vLLM",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 91,
+    "name": "Apache XTable\u2122",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 92,
+    "name": "dbldatagen",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 93,
+    "name": "DeepEval",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 94,
+    "name": "DSPy",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 95,
+    "name": "Flutter for Web",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 96,
+    "name": "kotaemon",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 97,
+    "name": "Lenis",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 98,
+    "name": "LLMLingua",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 99,
+    "name": "Microsoft Autogen",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 100,
+    "name": "Pingora",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 101,
+    "name": "Ragas",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 102,
+    "name": "Score",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 103,
+    "name": "shadcn",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 104,
+    "name": "Slint",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 31,
+    "number": 105,
+    "name": "SST",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 1,
+    "name": "Data product thinking",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 2,
+    "name": "Fuzz testing",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 3,
+    "name": "Software Bill of Materials",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 4,
+    "name": "Threat modeling",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 5,
+    "name": "API request collection as API product artifact",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 6,
+    "name": "Architecture advice process",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 7,
+    "name": "GraphRAG",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 8,
+    "name": "Just-in-time privileged access management",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 9,
+    "name": "Model distillation",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 10,
+    "name": "Prompt engineering",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 11,
+    "name": "Small language models",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 12,
+    "name": "Using GenAI to understand legacy codebases",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 13,
+    "name": "AI-friendly code design",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 14,
+    "name": "AI-powered UI testing",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 15,
+    "name": "Competence envelope as a model for understanding system failures",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 16,
+    "name": "Structured output from LLMs",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 17,
+    "name": "AI-accelerated shadow IT",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 18,
+    "name": "Complacency with AI-generated code",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 19,
+    "name": "Local coding assistants",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 20,
+    "name": "Replacing pair programming with AI",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 21,
+    "name": "Reverse ETL",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 22,
+    "name": "SAFe\u2122",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 32,
+    "number": 23,
+    "name": "GitLab CI/CD",
+    "ring": "Adopt",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 24,
+    "name": "Trino",
+    "ring": "Adopt",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 25,
+    "name": "ABsmartly",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 26,
+    "name": "Dapr",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 27,
+    "name": "Grafana Alloy",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 28,
+    "name": "Grafana Loki",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 29,
+    "name": "Grafana Tempo",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 30,
+    "name": "Railway",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 31,
+    "name": "Unblocked",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 32,
+    "name": "Weights & Biases",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 33,
+    "name": "Arize Phoenix",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 34,
+    "name": "Chainloop",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 35,
+    "name": "Deepseek R1",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 36,
+    "name": "Deno",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 37,
+    "name": "Graphiti",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 38,
+    "name": "Helicone",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 39,
+    "name": "Humanloop",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 40,
+    "name": "Model Context Protocol (MCP)",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 41,
+    "name": "Open WebUI",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 42,
+    "name": "pg_mooncake",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 43,
+    "name": "Reasoning models",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 44,
+    "name": "Restate",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 45,
+    "name": "Supabase",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 46,
+    "name": "Synthesized",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 47,
+    "name": "Tonic.ai",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 48,
+    "name": "turbopuffer",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 49,
+    "name": "VectorChord",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 50,
+    "name": "Tyk hybrid API management",
+    "ring": "Hold",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 32,
+    "number": 51,
+    "name": "Renovate",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 52,
+    "name": "uv",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 53,
+    "name": "Vite",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 54,
+    "name": "Claude Sonnet",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 55,
+    "name": "Cline",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 56,
+    "name": "Cursor",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 57,
+    "name": "D2",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 58,
+    "name": "Databricks Delta Live Tables",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 59,
+    "name": "JSON Crack",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 60,
+    "name": "MailSlurp",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 61,
+    "name": "Metabase",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 62,
+    "name": "NeMo Guardrails",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 63,
+    "name": "Nyx",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 64,
+    "name": "OpenRewrite",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 65,
+    "name": "Plerion",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 66,
+    "name": "Software engineering agents",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 67,
+    "name": "Tuple",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 68,
+    "name": "Turborepo",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 69,
+    "name": "AnythingLLM",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 70,
+    "name": "Gemma Scope",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 71,
+    "name": "Hurl",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 72,
+    "name": "Jujutsu",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 73,
+    "name": "kubenetmon",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 74,
+    "name": "Mergiraf",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 75,
+    "name": "ModernBERT",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 76,
+    "name": "OpenRouter",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 77,
+    "name": "Redactive",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 78,
+    "name": "System Initiative",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 79,
+    "name": "TabPFN",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 80,
+    "name": "v0",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 81,
+    "name": "Windsurf",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 82,
+    "name": "YOLO",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 32,
+    "number": 83,
+    "name": "OpenTelemetry",
+    "ring": "Adopt",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 84,
+    "name": "React Hook Form",
+    "ring": "Adopt",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 85,
+    "name": "Effect",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 86,
+    "name": "Hasura GraphQL engine",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 87,
+    "name": "LangGraph",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 88,
+    "name": "MarkItDown",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 89,
+    "name": "Module Federation",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 90,
+    "name": "Prisma ORM",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 91,
+    "name": ".NET Aspire",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 92,
+    "name": "Android XR SDK",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 93,
+    "name": "Browser Use",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 94,
+    "name": "CrewAI",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 95,
+    "name": "ElysiaJs",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 96,
+    "name": "FastGraphRAG",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 97,
+    "name": "Gleam",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 98,
+    "name": "GoFr",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 99,
+    "name": "Java post-quantum cryptography",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 100,
+    "name": "Presidio",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 101,
+    "name": "PydanticAI",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 102,
+    "name": "Swift for resourceconstrained applications",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 103,
+    "name": "Tamagui",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 104,
+    "name": "torchtune",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 32,
+    "number": 105,
+    "name": "Node overload",
+    "ring": "Hold",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 1,
+    "name": "Continuous compliance",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 2,
+    "name": "Curated shared instructions for software teams",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 3,
+    "name": "Pre-commit hooks",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 4,
+    "name": "Using GenAI to understand legacy codebases",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 5,
+    "name": "AGENTS.md",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 6,
+    "name": "AI for code migrations",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 7,
+    "name": "Delta Lake liquid clustering",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 8,
+    "name": "Self-serve UI prototyping with GenAI",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 9,
+    "name": "Structured output from LLMs",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 10,
+    "name": "TCR (Test && Commit || Revert)",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 11,
+    "name": "AI-powered UI testing",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 12,
+    "name": "Anchoring coding agents to a reference application",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 13,
+    "name": "Context engineering",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 14,
+    "name": "GenAI for forward engineering",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 15,
+    "name": "GraphQL as data access pattern for LLMs",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 16,
+    "name": "Knowledge flows over knowledge stocks",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 17,
+    "name": "LLM as a judge",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 18,
+    "name": "On-device information retrieval",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 19,
+    "name": "SAIF",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 20,
+    "name": "Service mesh without sidecar",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 21,
+    "name": "Small language models",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 22,
+    "name": "Spec-driven development",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 23,
+    "name": "Team of coding agents",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 24,
+    "name": "Topology-aware scheduling",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 25,
+    "name": "Toxic flow analysis for AI",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 26,
+    "name": "AI-accelerated shadow IT",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 27,
+    "name": "Capacity-driven development",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 28,
+    "name": "Complacency with AI-generated code",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 29,
+    "name": "Naive API-to-MCP conversion",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 30,
+    "name": "Standalone data engineering teams",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 31,
+    "name": "Text to SQL",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "volume": 33,
+    "number": 32,
+    "name": "Arm in the cloud",
+    "ring": "Adopt",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 33,
+    "name": "Apache Paimon",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 34,
+    "name": "DataDog LLM Observability",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 35,
+    "name": "Delta Sharing",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 36,
+    "name": "Dovetail",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 37,
+    "name": "Langdock",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 38,
+    "name": "LangSmith",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 39,
+    "name": "Model Context Protocol (MCP)",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 40,
+    "name": "n8n",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 41,
+    "name": "OpenThread",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 42,
+    "name": "AG-UI Protocol",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 43,
+    "name": "Agent-to-Agent (A2A) Protocol",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 44,
+    "name": "Amazon S3 Vectors",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 45,
+    "name": "Ardoq",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 46,
+    "name": "CloudNativePG",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 47,
+    "name": "Coder",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 48,
+    "name": "Graft",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 49,
+    "name": "groundcover",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 50,
+    "name": "Karmada",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 51,
+    "name": "OpenFeature",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 52,
+    "name": "Oxide",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 53,
+    "name": "Restate",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 54,
+    "name": "SkyPilot",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 55,
+    "name": "StarRocks",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 56,
+    "name": "Uncloud",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "volume": 33,
+    "number": 57,
+    "name": "ClickHouse",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 58,
+    "name": "NeMo Guardrails",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 59,
+    "name": "pnpm",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 60,
+    "name": "Pydantic",
+    "ring": "Adopt",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 61,
+    "name": "AI Design reviewer",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 62,
+    "name": "Barman",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 63,
+    "name": "Claude Code",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 64,
+    "name": "Cleanlab",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 65,
+    "name": "Context7",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 66,
+    "name": "Data Contract CLI",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 67,
+    "name": "Databricks Assistant",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 68,
+    "name": "Hoppscotch",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 69,
+    "name": "NVIDIA DCGM Exporter",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 70,
+    "name": "Relational AI",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 71,
+    "name": "UX Pilot",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 72,
+    "name": "v0",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 73,
+    "name": "Augment Code",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 74,
+    "name": "Azure AI Document Intelligence",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 75,
+    "name": "Docling",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 76,
+    "name": "E2B",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 77,
+    "name": "Helix editor",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 78,
+    "name": "Kueue",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 79,
+    "name": "MCP-Scan",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 80,
+    "name": "oRPC",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 81,
+    "name": "Power user for dbt",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 82,
+    "name": "Serena",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 83,
+    "name": "SweetPad",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 84,
+    "name": "Tape/Z Tools for Assembly Program Exploration for Z/OS",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "volume": 33,
+    "number": 85,
+    "name": "Fastify",
+    "ring": "Adopt",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 86,
+    "name": "LangGraph",
+    "ring": "Adopt",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 87,
+    "name": "vLLM",
+    "ring": "Adopt",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 88,
+    "name": "Crossplane",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 89,
+    "name": "DeepEval",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 90,
+    "name": "FastMCP",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 91,
+    "name": "LiteLLM",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 92,
+    "name": "MLForecast",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 93,
+    "name": "Nuxt",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 94,
+    "name": "Phoenix",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 95,
+    "name": "Presidio",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 96,
+    "name": "Pydantic AI",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 97,
+    "name": "Tauri",
+    "ring": "Trial",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 98,
+    "name": "Agent Development Kit (ADK)",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 99,
+    "name": "Agno",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 100,
+    "name": "assistant-ui",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 101,
+    "name": "AutoRound",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 102,
+    "name": "Browser Use",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 103,
+    "name": "DeepSpeed",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 104,
+    "name": "Drizzle",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 105,
+    "name": "Java post-quantum cryptography",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 106,
+    "name": "kagent",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 107,
+    "name": "LangExtract",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 108,
+    "name": "Langflow",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 109,
+    "name": "LMCache",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 110,
+    "name": "Mem0",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 111,
+    "name": "Open Security Control Assessment Language (OSCAL)",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 112,
+    "name": "OpenInference",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 113,
+    "name": "Valibot",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  },
+  {
+    "volume": 33,
+    "number": 114,
+    "name": "Vercel AI SDK",
+    "ring": "Assess",
+    "quadrant": "Languages and Frameworks"
+  }
+]

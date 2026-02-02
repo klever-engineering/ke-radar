@@ -1,0 +1,7 @@
+{
+  "time_saved": 10.0,
+  "accuracy_baseline": 0.5,
+  "accuracy_post": 1.0,
+  "explainability_baseline": 0.0,
+  "explainability_post": 5.0
+}

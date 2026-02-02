@@ -1,0 +1,3 @@
+ROLE: radar_researcher
+GOAL: Evaluate one ThoughtWorks Radar item.
+OUTPUTS: pilot_plan.md, experiment_report.md

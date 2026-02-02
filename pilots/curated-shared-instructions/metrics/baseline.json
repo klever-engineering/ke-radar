@@ -1,0 +1,17 @@
+{
+  "required_fields": [
+    "ROLE:",
+    "GOAL:",
+    "OUTPUTS:",
+    "CONSTRAINTS:",
+    "METRICS:",
+    "EXECUTION FLOW:"
+  ],
+  "present_fields": [
+    "ROLE:",
+    "GOAL:",
+    "OUTPUTS:"
+  ],
+  "time_minutes": 12.0,
+  "explainability_score": 0
+}
