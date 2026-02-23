@@ -51,6 +51,7 @@
 | OpenAI Skills | Techniques | Survey the OpenAI Skills repo (https://github.com/openai/skills) to understand reusable agent capabilities and inspiration for building curated skill sets within our radar pilots | Low |
 | llms.txt | Techniques | Explore the  registry to catalog accessible language models, their endpoints, and behavioral notes so agents can reason about provider choice and fallback logic | Low |
 | LLM Self-Consistency | Techniques | Research LLM self-consistency techniques (sampling multiple answers, majority voting) to improve reliability and reduce hallucinations in agent outputs | Low |
+| AlphaEvolve | Techniques | Inspired by DeepMind’s Gemini-powered AlphaEvolve (https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) to assess how AI agents can design algorithms and optimize heuristics before developers review | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
