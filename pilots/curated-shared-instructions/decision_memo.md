@@ -4,7 +4,7 @@
 Continue (pilot shows value; needs real-task validation)
 
 ## Rationale
-- Strategic fit: Improves agentic reliability and explainability, aligned with AE2.0 Delivery & Engineering Excellence.
+- Strategic fit: Improves agentic reliability and explainability, aligned with Delivery & Engineering Excellence goals.
 - Pain relief: Reduces manual prompt assembly effort and standardizes quality checks.
 - Evidence: Pilot metrics show 10 minutes estimated time saved, accuracy 0.5 → 1.0, explainability 0/5 → 5/5.
 

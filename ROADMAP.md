@@ -1,4 +1,4 @@
-# Technology Surveillance Roadmap (Vols. 31-33)
+# Generic Technology Roadmap
 
 ## Prioritization Signals
 1. Strategic fit with AE 2.0 (Delivery & Engineering Excellence; Operations & DevSecOps).
@@ -12,7 +12,7 @@
 - Effort (20%, inverted: lower effort scores higher)
 - Ring weight (10%: Adopt=5, Trial=3, Assess=1)
 
-## Roadmap (One experiment per week)
+## Generic Roadmap (One experiment per week)
 | Week | Technology | Quadrant | Why now | Est. Effort |
 | --- | --- | --- | --- | --- |
 | 1 | Curated shared instructions for software teams | Techniques | ThoughtWorks Radar vol. 33 / Adopt ring; Directly improves agentic reliability + explainability and aligns with /AGENTS.md governance. | Low |
@@ -36,7 +36,7 @@
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
 - LLM as a judge (33: Assess) - quality control for agent outputs.
 - AI-powered UI testing (32: Assess, 33: Assess) - QA automation.
-- Model Context Protocol (MCP) (33: Trial) - aligns with AE2.0 ops automation.
+- Model Context Protocol (MCP) (33: Trial) - aligns with radar ops automation.
 - OpenTelemetry (32: Adopt) - observability for agent-driven workflows.
 - Renovate (32: Adopt) - dependency hygiene.
 

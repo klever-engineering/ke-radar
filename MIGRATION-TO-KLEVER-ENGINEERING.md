@@ -156,7 +156,7 @@ git remote -v  # Should show origin -> klever-engineering/ke-radar
 
 ### Phase 3: Move SOP to Playbooks (Production Operations)
 
-**Action**: Extract SOP to AE2.0 Production Regular Operations
+**Action**: Extract SOP to production regular operations
 
 ```bash
 cd /path/to/ai-company

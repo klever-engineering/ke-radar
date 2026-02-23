@@ -230,7 +230,7 @@ def suggest_command(args: argparse.Namespace) -> None:
 def llm_suggest(options: list[dict[str, Any]], config: dict[str, Any]) -> dict[str, str]:
     api_key = ensure_api_key(config)
     prompt_lines = [
-        "Evaluate the following candidate pilots for AE2.0 radar experimentation:",
+        "Evaluate the following candidate pilots for the radar experimentation program:",
     ]
     for opt in options:
         prompt_lines.append(
