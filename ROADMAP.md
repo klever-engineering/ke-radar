@@ -53,6 +53,7 @@
 | LLM Self-Consistency | Techniques | Research LLM self-consistency techniques (sampling multiple answers, majority voting) to improve reliability and reduce hallucinations in agent outputs | Low |
 | AlphaEvolve | Techniques | Inspired by DeepMind’s Gemini-powered AlphaEvolve (https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) to assess how AI agents can design algorithms and optimize heuristics before developers review | Med |
 | First Principles for AI Agents | Techniques | Apply first-principles thinking to agent reasoning—break missions into atomic truths, align assumptions with data, and re-derive strategies before executing | Low |
+| sqlite.ai | Tools | Study SQLite.ai's agent-friendly database interfaces to see how lightweight SQL services can support agent memory, retrieval, and verification | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
