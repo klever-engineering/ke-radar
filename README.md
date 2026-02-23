@@ -214,6 +214,10 @@ Use the bundled CLI (`python tools/ke-radar/cli.py`) to automate the workflow:
 3. `python tools/ke-radar/cli.py suggest` calls the configured OpenAI model to rank the roadmap candidates against revenue, adaptability/reliability, and agent experience goals.
 4. `python tools/ke-radar/cli.py pilot --topic "Pre-commit hooks"` scaffolds the pilot (directories, copied templates, metadata, progress logging) so agents can pick it up immediately.
 
+## 💡 Agentic Experience (AX)
+
+We interpret AX as the YC-inspired “build something agents want” mindset—prioritize pilots that demonstrably boost agent productivity, trust, or delight. The roadmap, CLI prompts, and scoring rationale all highlight predictable revenue, adaptability, reliability, and agent experience so you always choose experiments that strengthen the AX signal.
+
 ### How Agents Work with KE Radar
 
 1. **Agent reads context**: Consults `RUNBOOK.md`, `AGENT_SPEC.md`, `ROADMAP.md`, and templates

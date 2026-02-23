@@ -1,0 +1,8 @@
+{
+  "technology": "Pre-commit hooks",
+  "week": 2,
+  "ring": "Adopt",
+  "quadrant": "Techniques",
+  "why": "Fast quality gates, reduces low-signal review churn.",
+  "effort": "Low"
+}

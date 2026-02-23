@@ -23,6 +23,7 @@
 | 6 | Component testing | 31 | Adopt | Techniques | Strong QA signal for UI-heavy or componentized repos. | Med |
 | 7 | Visual regression testing tools | 31 | Adopt | Tools | QA for UI regressions; good for documentation/UX surfaces. | Med |
 | 8 | Testcontainers | 31 | Adopt | Languages & Frameworks | Reliable integration tests for automation workflows. | Med |
+| 9 | Supabase | 33 | Adopt | Platforms | Accelerate backend prototyping | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
