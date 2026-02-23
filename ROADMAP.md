@@ -42,6 +42,7 @@
 | Compounding Engineering | Techniques | Explore compounding engineering practices where small, repeatable agent experiments (automation, instrumentation, prompts) accumulate value through reuse and feedback loops, enabling larger improvements without linear effort | Low |
 | Organization Prompt Library | Techniques | Research organizational prompt libraries to catalog reusable prompts, guardrails, and post-processing hooks so agents confidently apply proven patterns and share improvements | Low |
 | LLM as a Judge | Techniques | Based on vol. 33 Assess guidance; evaluate using LLM judges to automatically flag hallucinations, enforce guardrails, and surface confidence gaps before agents act | Low |
+| Context7 | Techniques | Explore Context7’s structured API and schema-driven approach for orchestrating agents, aiming to adapt its composable workflows as inspiration for our own helmets | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
