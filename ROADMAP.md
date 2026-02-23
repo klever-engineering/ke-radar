@@ -40,6 +40,7 @@
 | 23 | 12 Factor Agents | Techniques | Apply a 12-factor-style checklist to agents (codebase, config, backing services, process, port binding, concurrency, disposability, dev/prod parity, logs, admin) so pilots can treat agents as first-class services with predictable behavior | Low |
 | 24 | Structured Output for Agents | Techniques | Prioritize structured output schemas so agents emit predictable fields (status, references, metrics) that downstream readers and tooling can parse without guessing; this reduces hallucination and simplifies programmatic verification | Low |
 | 25 | Compounding Engineering | Techniques | Explore compounding engineering practices where small, repeatable agent experiments (automation, instrumentation, prompts) accumulate value through reuse and feedback loops, enabling larger improvements without linear effort | Low |
+| 26 | Organization Prompt Library | Techniques | Research organizational prompt libraries to catalog reusable prompts, guardrails, and post-processing hooks so agents confidently apply proven patterns and share improvements | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
