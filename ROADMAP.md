@@ -38,6 +38,7 @@
 | 21 | Neo4j LLM Knowledge Graph Builder | Tools | Investigate Neo4j's LLM Knowledge Graph Builder capabilities to seed knowledge graphs from LLM output, improving structured reasoning and traceability for agents | Med |
 | 22 | Dynamic Prompt Formats (DSPy + BAML) | Techniques | Inspired by DSPy enhancements (BAML schemas, TOON payloads, Teleprompters) to shrink prompts, keep structured outputs, and keep token costs low while the optimizer maintains signature contracts. Study how DSPy’s adapters improve structured output performance for complex nested inputs to inform our pilot’s dynamic prompt flows | Low |
 | 23 | 12 Factor Agents | Techniques | Apply a 12-factor-style checklist to agents (codebase, config, backing services, process, port binding, concurrency, disposability, dev/prod parity, logs, admin) so pilots can treat agents as first-class services with predictable behavior | Low |
+| 24 | Structured Output for Agents | Techniques | Prioritize structured output schemas so agents emit predictable fields (status, references, metrics) that downstream readers and tooling can parse without guessing; this reduces hallucination and simplifies programmatic verification | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
