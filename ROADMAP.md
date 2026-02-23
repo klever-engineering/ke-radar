@@ -30,6 +30,7 @@
 | 13 | Resend Examples | Techniques | Inspired by Resend docs/examples; exploration of https://resend.com for operator-friendly docs and agent guidance | Low |
 | 14 | Mintlify Exploration | Techniques | Inspired by Mintlify (https://www.mintlify.com/) to make developer docs more agent-friendly—focus on structured knowledge, contextual examples, and clear contracts that agents can parse and trust | Med |
 | 15 | AgentMail Exploration | Techniques | Investigate AgentMail (https://www.agentmail.to/) to understand automated agent-to-agent communication and orchestration, then apply those patterns to streamline how our agents coordinate pilots and share outcomes | Med |
+| 16 | DSPy Exploration | Tools | Study DSPy (https://dspy.ai/) for its agent-optimized SQL/BI assistant capabilities; evaluate how its data-product heuristics can augment our pilots with richer insights, faster discovery, and more explainable results | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
