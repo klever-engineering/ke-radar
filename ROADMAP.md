@@ -28,6 +28,7 @@
 | 11 | Agent Economy | Techniques | Found via YouTube research; Emerging market where agents choose tools/subscriptions and shape procurement | Med |
 | 12 | Agent-Friendly Documentation | Techniques | Internal research; Agent-friendly documentation with examples and clear contracts so agents can quickly assess certainty and accuracy | Low |
 | 13 | Resend Examples | Techniques | Inspired by Resend docs/examples; exploration of https://resend.com for operator-friendly docs and agent guidance | Low |
+| 14 | Mintlify Exploration | Techniques | Inspired by Mintlify (https://www.mintlify.com/) to make developer docs more agent-friendly—focus on structured knowledge, contextual examples, and clear contracts that agents can parse and trust | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
