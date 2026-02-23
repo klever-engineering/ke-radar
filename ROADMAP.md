@@ -13,17 +13,18 @@
 - Ring weight (10%: Adopt=5, Trial=3, Assess=1)
 
 ## Roadmap (One experiment per week)
-| Week | Technology | Volume | Ring | Quadrant | Why now | Est. Effort |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | Curated shared instructions for software teams | 33 | Adopt | Techniques | Directly improves agentic reliability + explainability and aligns with /AGENTS.md governance. | Low |
-| 2 | Pre-commit hooks | 33 | Adopt | Techniques | Fast quality gates, reduces low-signal review churn. | Low |
-| 3 | Software Bill of Materials (SBOM) | 32 | Adopt | Techniques | Improves compliance traceability and dependency transparency. | Low-Med |
-| 4 | Threat modeling | 32 | Adopt | Techniques | Structured risk discovery before changes; supports reliability. | Med |
-| 5 | Fuzz testing | 32 | Adopt | Techniques | Reliability boost, especially for parsers/automation scripts. | Med |
-| 6 | Component testing | 31 | Adopt | Techniques | Strong QA signal for UI-heavy or componentized repos. | Med |
-| 7 | Visual regression testing tools | 31 | Adopt | Tools | QA for UI regressions; good for documentation/UX surfaces. | Med |
-| 8 | Testcontainers | 31 | Adopt | Languages & Frameworks | Reliable integration tests for automation workflows. | Med |
-| 9 | Supabase | 33 | Adopt | Platforms | Accelerate backend prototyping | Low |
+| Week | Technology | Quadrant | Why now | Est. Effort |
+| --- | --- | --- | --- | --- |
+| 1 | Curated shared instructions for software teams | Techniques | ThoughtWorks Radar vol. 33 / Adopt ring; Directly improves agentic reliability + explainability and aligns with /AGENTS.md governance. | Low |
+| 2 | Pre-commit hooks | Techniques | ThoughtWorks Radar vol. 33 / Adopt ring; Fast quality gates, reduces low-signal review churn. | Low |
+| 3 | Software Bill of Materials (SBOM) | Techniques | ThoughtWorks Radar vol. 32 / Adopt ring; Improves compliance traceability and dependency transparency. | Low-Med |
+| 4 | Threat modeling | Techniques | ThoughtWorks Radar vol. 32 / Adopt ring; Structured risk discovery before changes; supports reliability. | Med |
+| 5 | Fuzz testing | Techniques | ThoughtWorks Radar vol. 32 / Adopt ring; Reliability boost, especially for parsers/automation scripts. | Med |
+| 6 | Component testing | Techniques | ThoughtWorks Radar vol. 31 / Adopt ring; Strong QA signal for UI-heavy or componentized repos. | Med |
+| 7 | Visual regression testing tools | Tools | ThoughtWorks Radar vol. 31 / Adopt ring; QA for UI regressions; good for documentation/UX surfaces. | Med |
+| 8 | Testcontainers | Languages & Frameworks | ThoughtWorks Radar vol. 31 / Adopt ring; Reliable integration tests for automation workflows. | Med |
+| 9 | Supabase | Platforms | ThoughtWorks Radar vol. 33 / Adopt ring; Accelerate backend prototyping | Low |
+| 10 | Agentic Experience | Techniques | ThoughtWorks Radar vol. 33 / Adopt ring; Prioritize building what agents want | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
@@ -35,4 +36,3 @@
 
 ## Current Selection
 Starting with **Curated shared instructions for software teams** (vol. 33, Adopt) because it directly targets reliability, explainability, and agentic consistency while keeping effort low.
-

@@ -47,6 +47,8 @@ def parse_roadmap() -> list[dict[str, Any]]:
         columns = [col.strip() for col in trimmed.strip("|").split("|")]
         if not columns or columns[0].lower() == "week":
             continue
+        if len(columns) < 5:
+            continue
         try:
             week = int(columns[0])
         except ValueError:
@@ -55,11 +57,9 @@ def parse_roadmap() -> list[dict[str, Any]]:
             {
                 "week": week,
                 "technology": columns[1],
-                "volume": columns[2] if len(columns) > 2 else "",
-                "ring": columns[3] if len(columns) > 3 else "",
-                "quadrant": columns[4] if len(columns) > 4 else "",
-                "why": columns[5] if len(columns) > 5 else "",
-                "effort": columns[6] if len(columns) > 6 else "",
+                "quadrant": columns[2],
+                "why": columns[3],
+                "effort": columns[4],
             }
         )
     return rows
@@ -211,7 +211,7 @@ def add_command(args: argparse.Namespace) -> None:
     rows = parse_roadmap()
     next_week = args.week or (max((row["week"] for row in rows), default=0) + 1)
     why = args.why or "TBD"
-    row = f"| {next_week} | {args.topic} | {args.volume} | {args.ring} | {args.quadrant} | {why} | {args.effort} |"
+    row = f"| {next_week} | {args.topic} | {args.quadrant} | {why} | {args.effort} |"
     add_roadmap_row(row)
     print(f"Added {args.topic} as week {next_week} to the roadmap")
 
@@ -306,8 +306,6 @@ def main() -> None:
     add_parser = subparsers.add_parser("add", help="Add a candidate to the roadmap")
     add_parser.add_argument("topic", help="Technology name")
     add_parser.add_argument("--week", type=int, help="Week number override")
-    add_parser.add_argument("--volume", default="33", help="ThoughtWorks Radar volume")
-    add_parser.add_argument("--ring", default="Adopt", help="Ring label")
     add_parser.add_argument("--quadrant", default="Techniques", help="Quadrant section")
     add_parser.add_argument("--why", help="Why now?")
     add_parser.add_argument("--effort", default="Low", help="Effort estimate for the pilot")
