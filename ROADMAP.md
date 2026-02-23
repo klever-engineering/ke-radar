@@ -36,6 +36,7 @@
 | 19 | Sensible Defaults for AI Agents | Techniques | Develop a playbook of sensible defaults for agent behavior (safety settings, retry logic, data handling) so pilots can rely on consistent base assumptions before customizing | Low |
 | 20 | Neo4j AI Systems | Techniques | Inspired by Neo4j AI Systems use case page (https://neo4j.com/use-cases/ai-systems/) to study graph-backed AI systems, focusing on how knowledge graphs and causal relationships improve reasoning and provenance | Med |
 | 21 | Neo4j LLM Knowledge Graph Builder | Tools | Investigate Neo4j's LLM Knowledge Graph Builder capabilities to seed knowledge graphs from LLM output, improving structured reasoning and traceability for agents | Med |
+| 22 | Dynamic Prompt Formats (DSPy + BAML) | Techniques | Inspired by DSPy enhancements (BAML schemas, TOON payloads, Teleprompters) to shrink prompts, keep structured outputs, and keep token costs low while the optimizer maintains signature contracts. Study how DSPy’s adapters improve structured output performance for complex nested inputs to inform our pilot’s dynamic prompt flows | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
