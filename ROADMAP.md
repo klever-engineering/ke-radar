@@ -63,6 +63,9 @@
 | Async Event-Driven Agents | Techniques | Investigate asynchronous event-driven architectures so agents react to external events without blocking and scale through pub/sub | Med |
 | Confidence vs Correctness | Techniques | Study the trade-off between confidence scores and correctness metrics in agent performance to trigger reruns when reliability falls below thresholds | Low |
 | Microsoft Foundry | Tools | Explore Microsoft Foundry’s capabilities for orchestrating enterprise-grade AI solutions and integrate best practices into our pilots | Med |
+| Tool Search (Anthropic) | Tools | Explore Anthropic's Tool Search (defer loading = true) as an MCP-like router for agents, surfacing relevant tools on demand and reducing startup cost | Med |
+| Programmatic Tool Execution | Techniques | Rephrase Anthropic proposal for programmatic tool calling inside sandboxes instead of loading multiple MCPs—agents dispatch code+data to secure runners for calculus or compilation | Med |
+| Smithery | Tools | Evaluate Smithery.ai for agent-friendly workflow automation, focusing on its orchestration templates and observable runbooks | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
