@@ -54,6 +54,15 @@
 | AlphaEvolve | Techniques | Inspired by DeepMind’s Gemini-powered AlphaEvolve (https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) to assess how AI agents can design algorithms and optimize heuristics before developers review | Med |
 | First Principles for AI Agents | Techniques | Apply first-principles thinking to agent reasoning—break missions into atomic truths, align assumptions with data, and re-derive strategies before executing | Low |
 | sqlite.ai | Tools | Study SQLite.ai's agent-friendly database interfaces to see how lightweight SQL services can support agent memory, retrieval, and verification | Low |
+| mirrord on k8s | Techniques | Explore mirrord by MetalBear for AI-assisted development on Kubernetes clusters, so agents can shadow production scenarios in real-time for debugging and experimentation | Med |
+| VS Code AI Toolkit 2025 | Tools | Review the upcoming 2025 VS Code AI Toolkit to assess how built-in AI-assisted coding experiences (copilot within IDE) affect agent-driven development workflows | Low |
+| Agent Identity Research | Techniques | Investigate whether agent identity is just an ID or includes cognitive capability profiles, determining what metadata is critical for trust & auditing | Low |
+| Cognitive Monitoring | Techniques | Add monitoring for reasoning steps so agents surface their chain-of-thoughts, decisions, and anomalies in real-time | Med |
+| Cognitive Monitoring | Techniques | Add cognitive monitoring and reasoning step tracking so agents capture how decisions unfold and expose intermediate reasoning for validation | Med |
+| Telemetry for Agents | Tools | Define telemetry for agents, including token usage, latencies, and error rates, to understand cost and performance tradeoffs | Low |
+| Async Event-Driven Agents | Techniques | Investigate asynchronous event-driven architectures so agents react to external events without blocking and scale through pub/sub | Med |
+| Confidence vs Correctness | Techniques | Study the trade-off between confidence scores and correctness metrics in agent performance to trigger reruns when reliability falls below thresholds | Low |
+| Microsoft Foundry | Tools | Explore Microsoft Foundry’s capabilities for orchestrating enterprise-grade AI solutions and integrate best practices into our pilots | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
