@@ -44,6 +44,10 @@
 | LLM as a Judge | Techniques | Based on vol. 33 Assess guidance; evaluate using LLM judges to automatically flag hallucinations, enforce guardrails, and surface confidence gaps before agents act | Low |
 | Context7 | Techniques | Explore Context7’s structured API and schema-driven approach for orchestrating agents, aiming to adapt its composable workflows as inspiration for our own helmets | Low |
 | Chrome DevTools MCP | Tools | Research Chrome DevTools MCP (Multidevice Chrome Project) workflows for testing/debugging agents’ browser-like interactions, highlighting how DevTools API can verify rendered output, catch layout regressions, and automate repeatable scenarios | Med |
+| Codex SDK | Tools | Evaluate Codex SDK for building multi-agent orchestration, focusing on reusable client libraries that wrap the Codex REST APIs and provide telemetry hooks | Med |
+| Codex MCP | Tools | Study Codex MCP (Multi-context Platform) for its orchestration layers, looking at how it coordinates agent lifecycles, workflows, and identity to inform our MCP tooling | Med |
+| Codex Multi-Agent | Techniques | Explore Codex multi-agent patterns for coordination, task splitting, and shared memory, so pilots can replicate the cooperative behaviors that speed tasks | Med |
+| AI-Native Engineering Team | Techniques | Inspired by OpenAI Codex guide (https://developers.openai.com/codex/guides/build-ai-native-engineering-team) to structure teams that pair agents with engineers, defining guardrails, observability, and escalation loops so pilots align with rising AI-native practices | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
