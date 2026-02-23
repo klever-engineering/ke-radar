@@ -45,21 +45,16 @@ def parse_roadmap() -> list[dict[str, Any]]:
         if not trimmed.startswith("|") or "---" in trimmed:
             continue
         columns = [col.strip() for col in trimmed.strip("|").split("|")]
-        if not columns or columns[0].lower() == "week":
+        if not columns or columns[0].lower() == "technology":
             continue
-        if len(columns) < 5:
-            continue
-        try:
-            week = int(columns[0])
-        except ValueError:
+        if len(columns) < 4:
             continue
         rows.append(
             {
-                "week": week,
-                "technology": columns[1],
-                "quadrant": columns[2],
-                "why": columns[3],
-                "effort": columns[4],
+                "technology": columns[0],
+                "quadrant": columns[1],
+                "why": columns[2],
+                "effort": columns[3],
             }
         )
     return rows
@@ -208,12 +203,10 @@ def pilot_command(args: argparse.Namespace) -> None:
 
 
 def add_command(args: argparse.Namespace) -> None:
-    rows = parse_roadmap()
-    next_week = args.week or (max((row["week"] for row in rows), default=0) + 1)
     why = args.why or "TBD"
-    row = f"| {next_week} | {args.topic} | {args.quadrant} | {why} | {args.effort} |"
+    row = f"| {args.topic} | {args.quadrant} | {why} | {args.effort} |"
     add_roadmap_row(row)
-    print(f"Added {args.topic} as week {next_week} to the roadmap")
+    print(f"Added {args.topic} to the roadmap")
 
 
 def suggest_command(args: argparse.Namespace) -> None:

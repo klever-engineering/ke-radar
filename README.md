@@ -210,7 +210,7 @@ Ask the agent to scan your codebase and propose technologies based on actual nee
 Use the bundled CLI (`python tools/ke-radar/cli.py`) to automate the workflow:
 
 1. `python tools/ke-radar/cli.py init --api-key $OPENAI_API_KEY` stores the key under `.ke-radar/config.json` for later use (suggestions, scoring).
-2. `python tools/ke-radar/cli.py add "New topic" --quadrant Techniques --why "ThoughtWorks Radar vol. 33 / Adopt ring; Reason" --effort Low` appends a row to `ROADMAP.md` and captures the volume/ring context inside the “Why now” text.
+2. `python tools/ke-radar/cli.py add "New topic" --quadrant Techniques --why "ThoughtWorks Radar vol. 33 / Adopt ring; Reason" --effort Low` appends a row to `ROADMAP.md` so the roadmap stays a simple Technology/Quadrant/Why/Effort table.
 3. `python tools/ke-radar/cli.py suggest` calls the configured OpenAI model to rank the roadmap candidates against revenue, adaptability/reliability, and agent experience goals.
 4. `python tools/ke-radar/cli.py pilot --topic "Pre-commit hooks"` scaffolds the pilot (directories, copied templates, metadata, progress logging) so agents can pick it up immediately.
 
