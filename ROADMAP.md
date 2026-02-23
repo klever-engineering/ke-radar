@@ -33,6 +33,7 @@
 | 16 | DSPy Exploration | Tools | Study DSPy (https://dspy.ai/) for its agent-optimized SQL/BI assistant capabilities; evaluate how its data-product heuristics can augment our pilots with richer insights, faster discovery, and more explainable results | Med |
 | 17 | Knowledge Graphs for Context Engineering | Techniques | Internal research; Use knowledge graphs to model the context engineering domain so agents can traverse relationships, reason about entities, and keep contexts immutable | Med |
 | 18 | Ontology-aware Prompt Template | Techniques | Design prompt templates that reference the organization ontology explicitly so LLMs can extract entities, relationships, and constraints with fewer hallucinations | Low |
+| 19 | Sensible Defaults for AI Agents | Techniques | Develop a playbook of sensible defaults for agent behavior (safety settings, retry logic, data handling) so pilots can rely on consistent base assumptions before customizing | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
