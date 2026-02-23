@@ -26,6 +26,7 @@
 | 9 | Supabase | Platforms | Found via YouTube research; Accelerate backend prototyping | Low |
 | 10 | Agentic Experience | Techniques | Found via YouTube research; Prioritize building what agents want | Low |
 | 11 | Agent Economy | Techniques | Found via YouTube research; Emerging market where agents choose tools/subscriptions and shape procurement | Med |
+| 12 | Agent-Friendly Documentation | Techniques | Internal research; Agent-friendly documentation with examples and clear contracts so agents can quickly assess certainty and accuracy | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
