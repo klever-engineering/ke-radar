@@ -23,8 +23,9 @@
 | 6 | Component testing | Techniques | ThoughtWorks Radar vol. 31 / Adopt ring; Strong QA signal for UI-heavy or componentized repos. | Med |
 | 7 | Visual regression testing tools | Tools | ThoughtWorks Radar vol. 31 / Adopt ring; QA for UI regressions; good for documentation/UX surfaces. | Med |
 | 8 | Testcontainers | Languages & Frameworks | ThoughtWorks Radar vol. 31 / Adopt ring; Reliable integration tests for automation workflows. | Med |
-| 9 | Supabase | Platforms | ThoughtWorks Radar vol. 33 / Adopt ring; Accelerate backend prototyping | Low |
-| 10 | Agentic Experience | Techniques | ThoughtWorks Radar vol. 33 / Adopt ring; Prioritize building what agents want | Low |
+| 9 | Supabase | Platforms | Found via YouTube research; Accelerate backend prototyping | Low |
+| 10 | Agentic Experience | Techniques | Found via YouTube research; Prioritize building what agents want | Low |
+| 11 | Agent Economy | Techniques | Found via YouTube research; Emerging market where agents choose tools/subscriptions and shape procurement | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
