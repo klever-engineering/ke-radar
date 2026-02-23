@@ -4,6 +4,16 @@
 
 A structured framework for evaluating emerging technologies, tools, and practices through systematic pilots and experiments. KE Radar provides templates, workflows, and metrics to help teams make evidence-based technology adoption decisions.
 
+## 🔖 Suggested Repository Topics
+Use these GitHub topics for discoverability:
+`technology-radar`, `tech-evaluation`, `experimentation`, `pilot`, `adr`, `decision-records`,
+`metrics`, `innovation-management`, `evidence-based`, `thoughtworks-radar`.
+
+## ✅ GitHub Good Practices (Recommended)
+- Enable Discussions and auto-delete branches on merge.
+- Keep issues and pull requests structured using the templates in `.github/`.
+- Use the runbook and templates as the source of truth for pilot work.
+
 ## 🎯 Purpose
 
 KE Radar enables organizations to:
