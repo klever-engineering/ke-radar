@@ -43,6 +43,7 @@
 | Organization Prompt Library | Techniques | Research organizational prompt libraries to catalog reusable prompts, guardrails, and post-processing hooks so agents confidently apply proven patterns and share improvements | Low |
 | LLM as a Judge | Techniques | Based on vol. 33 Assess guidance; evaluate using LLM judges to automatically flag hallucinations, enforce guardrails, and surface confidence gaps before agents act | Low |
 | Context7 | Techniques | Explore Context7’s structured API and schema-driven approach for orchestrating agents, aiming to adapt its composable workflows as inspiration for our own helmets | Low |
+| Chrome DevTools MCP | Tools | Research Chrome DevTools MCP (Multidevice Chrome Project) workflows for testing/debugging agents’ browser-like interactions, highlighting how DevTools API can verify rendered output, catch layout regressions, and automate repeatable scenarios | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
