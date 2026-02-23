@@ -34,6 +34,7 @@
 | 17 | Knowledge Graphs for Context Engineering | Techniques | Internal research; Use knowledge graphs to model the context engineering domain so agents can traverse relationships, reason about entities, and keep contexts immutable | Med |
 | 18 | Ontology-aware Prompt Template | Techniques | Design prompt templates that reference the organization ontology explicitly so LLMs can extract entities, relationships, and constraints with fewer hallucinations | Low |
 | 19 | Sensible Defaults for AI Agents | Techniques | Develop a playbook of sensible defaults for agent behavior (safety settings, retry logic, data handling) so pilots can rely on consistent base assumptions before customizing | Low |
+| 20 | Neo4j AI Systems | Techniques | Inspired by Neo4j AI Systems use case page (https://neo4j.com/use-cases/ai-systems/) to study graph-backed AI systems, focusing on how knowledge graphs and causal relationships improve reasoning and provenance | Med |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
