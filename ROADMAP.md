@@ -48,6 +48,7 @@
 | Codex MCP | Tools | Study Codex MCP (Multi-context Platform) for its orchestration layers, looking at how it coordinates agent lifecycles, workflows, and identity to inform our MCP tooling | Med |
 | Codex Multi-Agent | Techniques | Explore Codex multi-agent patterns for coordination, task splitting, and shared memory, so pilots can replicate the cooperative behaviors that speed tasks | Med |
 | AI-Native Engineering Team | Techniques | Inspired by OpenAI Codex guide (https://developers.openai.com/codex/guides/build-ai-native-engineering-team) to structure teams that pair agents with engineers, defining guardrails, observability, and escalation loops so pilots align with rising AI-native practices | Med |
+| OpenAI Skills | Techniques | Survey the OpenAI Skills repo (https://github.com/openai/skills) to understand reusable agent capabilities and inspiration for building curated skill sets within our radar pilots | Low |
 
 ## Backlog (Trial / Assess)
 - Structured output from LLMs (32: Assess, 33: Trial) - improves accuracy and validation.
